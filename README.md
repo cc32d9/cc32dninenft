@@ -69,7 +69,7 @@ The NFT image uses the `Ac437 Verite 9x16` font from awesome
 collection](https://int10h.org/oldschool-pc-fonts/).
 
 The series will contain only 100 items which will be sold on Atomic
-Hub auction.
+Hub auction on WAX blockchain.
 
 
 
