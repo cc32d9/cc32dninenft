@@ -22,6 +22,8 @@ in EOSIO ecosystem. The revenues will be split as follows:
 * 50% will be used for my own projects from my [pending
   list](https://github.com/cc32d9/cc32d9_ideas_for_EOSIO/blob/master/Needs_Funding.md).
 
+New sales will be announced in
+[cc32dninenft](https://t.me/cc32dninenft) Telegram channel.
 
 
 ## The DAO
