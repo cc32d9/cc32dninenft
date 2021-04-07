@@ -4,7 +4,9 @@
 
 The Atomic Assets NFT collection `cc32dninenft` will be a series of
 memorable events related to my pseudonym (cc32d9), mostly known in
-EOSIO blockchain space. The assets will be issued on WAX and EOS
+EOSIO blockchain space. The assets will be issued on
+[WAX](https://wax.atomichub.io/explorer/collection/cc32dninenft) and
+[EOS](https://eos.atomichub.io/explorer/collection/cc32dninenft)
 public blockchains.
 
 The images are made in minimalist, text-only layout (because I'm bad
